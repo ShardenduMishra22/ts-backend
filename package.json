@@ -33,7 +33,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "start": "nodemon index.ts",
+    "start": "node  dist/index.ts",
     "format": "prettier --write ."
   },
   "keywords": [],
